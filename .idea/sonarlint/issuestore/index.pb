@@ -18,3 +18,7 @@ S
 #src/br/myapp/pagk/InputUsuario.java,0\a\0abb953c7ee51888292685aa502056e0c9fc9161
 Q
 !src/br/myapp/pagk/MultiArray.java,f\e\fec95d3bb752c687df6668020b9f321a26b0899e
+L
+src/br/myapp/pagk/Boole.java,2\c\2c97cf637aa33b9b95863af424f5b35b34d081f9
+X
+(src/br/myapp/pagk/ClassesAndMethods.java,f\5\f533b604a7e0d6517f65caf16f40dff96d7906c4
