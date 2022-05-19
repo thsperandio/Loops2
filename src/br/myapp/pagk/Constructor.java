@@ -24,10 +24,7 @@ class Program{
         this.value = value;
         this.text = text;
         System.out.println("Third Constructor");
-
     }
-
-
 }
 
 public class Constructor {
@@ -36,7 +33,5 @@ public class Constructor {
         Program myProgram = new Program(); //new Program(); makes the constructor run
         Program myProgram1 = new Program(2); // 1 - check above
         Program myProgram2 = new Program(3, "Hi");
-
-
     }
 }
