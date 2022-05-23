@@ -22,3 +22,7 @@ L
 src/br/myapp/pagk/Boole.java,2\c\2c97cf637aa33b9b95863af424f5b35b34d081f9
 X
 (src/br/myapp/pagk/ClassesAndMethods.java,f\5\f533b604a7e0d6517f65caf16f40dff96d7906c4
+O
+src/br/myapp/pagk/Retornos.java,6\6\665068b2dd1f48cabd32076306f9ab980d54f2ef
+R
+"src/br/myapp/pagk/Constructor.java,4\9\496857cf3535e86b191450a563f6dcca4bc59148
