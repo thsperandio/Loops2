@@ -18,11 +18,17 @@ S
 #src/br/myapp/pagk/InputUsuario.java,0\a\0abb953c7ee51888292685aa502056e0c9fc9161
 Q
 !src/br/myapp/pagk/MultiArray.java,f\e\fec95d3bb752c687df6668020b9f321a26b0899e
-L
-src/br/myapp/pagk/Boole.java,2\c\2c97cf637aa33b9b95863af424f5b35b34d081f9
 X
 (src/br/myapp/pagk/ClassesAndMethods.java,f\5\f533b604a7e0d6517f65caf16f40dff96d7906c4
 O
 src/br/myapp/pagk/Retornos.java,6\6\665068b2dd1f48cabd32076306f9ab980d54f2ef
 R
 "src/br/myapp/pagk/Constructor.java,4\9\496857cf3535e86b191450a563f6dcca4bc59148
+U
+%src/br/myapp/pagk/StaticandFinal.java,4\0\40863d9d8aceff89d7b275a03c83efffe62e94fe
+L
+src/com/inharitance/Car.java,d\9\d95371fd1ffc691a19db3a0749d1ca81036920e7
+[
++src/com/inharitance/ApplicationFactory.java,f\e\fe60c350c9d6d402519ae5ae3165e595001bc778
+P
+ src/com/inharitance/Factory.java,3\5\35c7618cbfc5f81f47f2a5a8dd8d5c5f18de0a6e
