@@ -32,3 +32,5 @@ L
 +src/com/inharitance/ApplicationFactory.java,f\e\fe60c350c9d6d402519ae5ae3165e595001bc778
 P
  src/com/inharitance/Factory.java,3\5\35c7618cbfc5f81f47f2a5a8dd8d5c5f18de0a6e
+L
+src/br/myapp/pagk/Boole.java,2\c\2c97cf637aa33b9b95863af424f5b35b34d081f9
