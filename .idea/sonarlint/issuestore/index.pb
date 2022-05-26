@@ -34,3 +34,9 @@ P
  src/com/inharitance/Factory.java,3\5\35c7618cbfc5f81f47f2a5a8dd8d5c5f18de0a6e
 L
 src/br/myapp/pagk/Boole.java,2\c\2c97cf637aa33b9b95863af424f5b35b34d081f9
+M
+src/uk/vehicle/ok/Applic.java,0\d\0de081b2b299ad1d9d4881636311fa9382b53eed
+N
+src/uk/vehicle/ok/Vehicle.java,3\0\303c2e3e172493b233f831b4d440dda2c0aabe71
+J
+src/uk/vehicle/ok/Car.java,6\1\6101c14f80f336af63f3302adb3bc6c8a8168809
