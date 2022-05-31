@@ -34,3 +34,13 @@ P
  src/us/encapsulation/io/App.java,c\8\c86b76d8e0db172c6a406289df47ccee23417932
 M
 src/br/myapp/pagk/Arrays.java,e\9\e940a61583f4e307ca15c7e0fc3f0ee4cf04ed2a
+S
+#src/br/myapp/pagk/DoWhileLoops.java,c\5\c5b03d03f4e1045033c3b1a17e56a578abc3b2a3
+L
+src/com/inharitance/Car.java,d\9\d95371fd1ffc691a19db3a0749d1ca81036920e7
+M
+src/uk/vehicle/ok/Applic.java,0\d\0de081b2b299ad1d9d4881636311fa9382b53eed
+P
+ src/com/inharitance/Factory.java,3\5\35c7618cbfc5f81f47f2a5a8dd8d5c5f18de0a6e
+[
++src/com/inharitance/ApplicationFactory.java,f\e\fe60c350c9d6d402519ae5ae3165e595001bc778
