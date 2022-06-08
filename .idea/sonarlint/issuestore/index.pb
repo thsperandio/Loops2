@@ -44,3 +44,11 @@ P
  src/com/inharitance/Factory.java,3\5\35c7618cbfc5f81f47f2a5a8dd8d5c5f18de0a6e
 [
 +src/com/inharitance/ApplicationFactory.java,f\e\fe60c350c9d6d402519ae5ae3165e595001bc778
+R
+"src/co/interfaces/Application.java,0\d\0debb91baee3f7ea54f1715f0240e6989b39ae67
+O
+src/co/interfaces/Computer.java,5\6\5683914a38d11f2abad584109a02303bad64ad00
+N
+src/co/interfaces/Vehicle.java,7\a\7a2bcc54f11e4917b302e1ef66ed7856bbe25604
+R
+"src/co/interfaces/Information.java,7\3\73482f72bcecab996121bf75a79a4771af2dd8f7
