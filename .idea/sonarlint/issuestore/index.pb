@@ -54,3 +54,13 @@ X
 (src/br/myapp/pagk/ClassesAndMethods.java,f\5\f533b604a7e0d6517f65caf16f40dff96d7906c4
 R
 "src/br/myapp/pagk/Constructor.java,4\9\496857cf3535e86b191450a563f6dcca4bc59148
+w
+G.idea/sonarlint/issuestore/0/d/0de081b2b299ad1d9d4881636311fa9382b53eed,0\7\078db3e5b3821b2e576e18e2d2e78b486278369a
+w
+G.idea/sonarlint/issuestore/7/3/73482f72bcecab996121bf75a79a4771af2dd8f7,1\3\1317bc7bb847429fca53e6e7ee84b9ca95640adc
+w
+G.idea/sonarlint/issuestore/f/e/fe60c350c9d6d402519ae5ae3165e595001bc778,8\7\878df38404edda4b0dacc6eda0835f7180233e99
+O
+src/tr/tstring/Application.java,b\4\b402cafd3a5059858424738bbbd916c8ce5d60e9
+N
+src/lk/equals/Application.java,3\b\3bc20bd5e19829f4f30fc4b3d125ebc9a9277ec4
