@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Œç¹à
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•‡³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ðÑÏ°úÿÿÿÿ
+T
+java:S1854#">Remove this useless assignment to local variable "myProgram2".(À„•¾
+T
+java:S1854"">Remove this useless assignment to local variable "myProgram1".(¥êˆ¡
+X
+java:S1854!"=Remove this useless assignment to local variable "myProgram".(ùãÚ‚úÿÿÿÿ
+I
+java:S1481!".Remove this unused "myProgram" local variable.(ùãÚ‚úÿÿÿÿ
+E
+java:S1481""/Remove this unused "myProgram1" local variable.(¥êˆ¡
+E
+java:S1481#"/Remove this unused "myProgram2" local variable.(À„•¾

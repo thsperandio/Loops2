@@ -1,0 +1,20 @@
+
+k
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ã•ãÙøÿÿÿÿ
+s
+java:S1104	"XMake studentClass a static final constant or non-public and provide accessors if needed.(•ê÷ëýÿÿÿÿ
+l
+java:S1104"QMake count a static final constant or non-public and provide accessors if needed.(µÖŸßüÿÿÿÿ
+M
+java:S1444	"2Make this "public static studentClass" field final(•ê÷ëýÿÿÿÿ
+F
+java:S1444"+Make this "public static count" field final(µÖŸßüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥©ä’
+Q	java:S125"<This block of commented-out lines of code should be removed.(ì£ ½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¢Àý»
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÛžéÇ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ßá”à
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¬µÈ˜ûÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(°¸¼‚
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(ÉÇ³©ûÿÿÿÿ8¢ÃŽ–Ž0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¼ÃÚ»ûÿÿÿÿ8Í»š–Ž0
