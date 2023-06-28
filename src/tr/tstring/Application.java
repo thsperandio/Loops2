@@ -26,6 +26,7 @@ public class Application {
 
         System.out.println(employee1);
         System.out.println(employee2);
+        System.out.println("sync");
 
     }
 }

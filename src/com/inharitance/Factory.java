@@ -8,6 +8,7 @@ public class Factory {
     }
     public void build() {
 
-        System.out.println("Build the car");
+        System.out.println("Build the car2 ");
+        System.out.println("ped");
     }
 }
